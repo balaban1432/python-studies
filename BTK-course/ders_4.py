@@ -27,4 +27,64 @@
 # print(plakalar)
 
 
+# users = {
+#     "ramazan" : {
+#         "age" : 41,
+#         "email" : "balaban@gmail.com",
+#         "adress" : "bolu",
+#         "phone" : "123456",
+#         "roles" : ["admin", "user"]
+#     },
+#     "derya" : {
+#         "age" : 36,
+#         "email" : "derya@gmail.com",
+#         "adress" : "bolu",
+#         "phone" : "789456",
+#         "user" : ["user"]
+#     }   
+# }
+
+# print(users["ramazan"])
+# print(users["ramazan"]["age"])
+# print(users["ramazan"]["email"])
+# print(users["ramazan"]["roles"][0])
+
+
+# students = {
+#     "120" : {
+#         "name" : "Ali",
+#         "surname" : "Yılmaz",
+#         "phone" : "5320125254"
+#     },
+#     "125" : {
+#         "name" : "Can",
+#         "surname" : "Korkmaz",
+#         "phone" : "5320155552",
+#     },
+#     "128" : {
+#         "name" : "Volkan",
+#         "surname" : "Yüksel",
+#         "phone" : "5324566652",
+#     },
+# }
+
+"""
+1. bilgileri verilen öğrencileri kullanıcıdan aldığınız bilgilerle 
+dictionary içinde saklayınız.
+2. öğrenci numarasını kullanıcıdan alıp ilgili öğrenci bilgisini gösterin
+"""
+# number = input("enter your number")
+# name = input("enter your name: ")
+# surname = input("enter your surname")
+# phone = input("enter your phone")
+
+# students.update({number : {"name" : name, "surname" : surname, "phone" : phone}})
+# students[number] = {"name" : name, "surname" : surname, "phone" : phone}  # second way
+# print(students)
+
+# number = input("enter your number")
+# print(students[number])
+
+
+# sets
 

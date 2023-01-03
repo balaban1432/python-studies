@@ -87,4 +87,26 @@ dictionary içinde saklayınız.
 
 
 # sets
+# fruits = {"orange", "apple", "banana"}
 
+# indexlenemez, herdefasında farklı şekilde görünür.
+
+# fruits.add("cherry")
+# fruits.update(["mango", "grape"])
+# fruits.add("apple")  # set içinde her elemandan 1 adet olur. ikinci bir defa eklemez.
+
+# print(fruits)
+
+
+# mylist = [1, 2, 3, 5, 2, 8, 5]
+# print(set(mylist))
+
+
+# fruits = {"orange", "apple", "banana", "mango"}
+# fruits.remove("orange")
+# fruits.discard("apple")
+# fruits.pop()  # son elemanı siler ama setler sıralı olmadığı için herhangi bir elemanını siler
+# print(fruits)
+
+# print(fruits.clear())
+# print(fruits)

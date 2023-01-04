@@ -110,3 +110,34 @@ dictionary içinde saklayınız.
 
 # print(fruits.clear())
 # print(fruits)
+
+
+#  value types
+
+# x = 5
+# y = 25
+
+# x = y
+# y = 10  # burada y nin değişmesi yukarıdaki x i etkilemez.
+# print(x, y)
+# x = y
+# print(x, y)
+
+
+# reference types
+
+# a = ["apple", "banan"]
+# b = ["apple", "banan"]
+
+# b[0] = "grape"
+
+# print(a, b, sep="\n")
+
+# a = ["apple", "banan"]
+# b = ["apple", "banan"]
+
+# a = b
+
+# b[0] = "grape"  # b nin içindeki değişiklik a ya da yansır. burada adresleme var.
+
+# print(a, b, sep="\n")

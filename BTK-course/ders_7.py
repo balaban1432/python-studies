@@ -95,3 +95,79 @@
 
 # while loops
 
+# x = 0
+
+# while x < 100:
+#     if x % 2 == 0:
+#         print(x)
+#     x += 1 
+# print("finish")    
+
+
+# name = ""  #False
+
+# while not name:
+#     name = input("enter your name: ")
+# print(f"Hello {name} ")    
+
+
+# numbers = [1, 3, 5, 7, 9, 12, 19, 21]
+
+# i = 0
+# while i < len(numbers):
+#     print(numbers[i])
+#     i += 1
+
+
+# 1. başlangıç ve bitiş değerlerini kullanıcıdan alıp aradaki tüm tek sayıları yazdırın.
+
+# first_number = int(input("enter first number: "))
+# second_number = int(input("enter second number: "))
+
+# i = first_number
+
+# while i < second_number - 1:
+#     i += 1
+#     if i % 2 == 1:
+#         print(i)
+
+
+# 2. 1 ile 100 arasındaki azalan şekilde yazdırın
+
+# i = 100
+
+# while i > 0:
+#     print(i)
+#     i -= 1
+
+
+# 3. kullanıcıdan 5 sayı alın ve ekrana sıralı yazdırın
+
+# i = 0
+# list_number = []
+# while i < 5:
+#     number = int(input("enter a number: "))
+#     list_number.append(number)
+#     i += 1
+# list_number.sort()
+# print(list_number)    
+
+# 4. kullanıcıdan alacağınız sınırsız ürün bilgisini ürünler listesinde saklayınız.  ** ürün sayısını kullanıcıya sorun ** dictionary yapısı (name , price) şeklinde olsun **ürün ekleme işlemi bittiğinde ürünleri ekranda for ile listeleyin.
+
+
+# urunler = []
+
+# adet = int(input("kaç ürün eklemek istiyorsunuz?  "))
+# i = 0
+
+# while i < adet:
+#     name = input("ürün ismi: ")
+#     price = input("ürün fiyatı: ")
+#     urunler.append({
+#         "name" : name,
+#         "price" : price
+#     })
+#     i += 1
+
+# for i in urunler:
+#     print(f'ürün adı: {i["name"]} , ürün fiyatı: {i["price"]}')

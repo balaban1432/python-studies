@@ -171,3 +171,5 @@
 
 # for i in urunler:
 #     print(f'ürün adı: {i["name"]} , ürün fiyatı: {i["price"]}')
+
+# print (urunler)

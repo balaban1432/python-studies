@@ -1,1 +1,2 @@
-print(2**16)
+counts = [0] * 26
+print(counts)

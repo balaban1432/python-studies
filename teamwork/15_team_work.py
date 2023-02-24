@@ -15,8 +15,7 @@ for i in products:
   
 set_list = set(products)
 set_stack = set(stack)
-result = set_list.difference(set_stack) 
-# result = set_list - set_stack
-# print(result)
+result = set_list.difference(set_stack)  # result = set_list - set_stack
+
 for i in result:
     print(i)       

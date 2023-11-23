@@ -48,3 +48,42 @@
 
 # print(str(a + int(b) + float(c)) + d)
 
+
+# color = 'red'
+# season = 'summer'
+# price = 250  # int type variable
+# pi = 3.14  # float type variable
+# color = 'blue'
+# price = 100  # value of 'price' is changed
+# season = 'winter'
+
+# print(color, price, season)
+
+
+# a = 5
+# b = 55
+# c = 555
+# c = a
+# b = c
+# a = b
+
+# print(a, b, c)
+
+
+# first_num = "5"
+# second_num = "6"
+
+# print(first_num + second_num)
+
+
+# first_num = 5
+# second_num = 6
+
+# print(first_num + second_num)
+# print(first_num ** second_num)
+
+
+# first_num = input("enter a number \t")
+# second_num = input("enter another number: ")
+
+# print(int(first_num) + int(second_num))

@@ -47,9 +47,6 @@
 # print(b)
 # print(c)
   
-
-
-
     
 # man = "andrew"
 # color = "green"

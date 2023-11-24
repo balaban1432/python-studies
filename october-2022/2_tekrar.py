@@ -89,3 +89,43 @@
 # print(int(first_num) + int(second_num))
 
 
+# my_age = 33
+# your_age = 30
+# my_age = your_age
+# print(my_age)
+
+
+# x = y = z = 'same'
+
+# print(x)
+# print(y)
+# print(z)
+
+
+# a, b, c = 5, 3.2 , 'Hello'
+
+# print(a, b, c)
+# print(a)
+# print(b)
+# print(c)
+
+
+# my_text = "being a good person"
+# print(type(my_text))
+
+
+# print(5>=5)
+# print(5<=5)
+# print(5<5)
+
+
+# number_int = 123
+# number_str = "456"
+
+# print("Data type of number_int:", type(number_int))
+# print("Data type of number_str before Type Casting:", type(number_str))
+# number_str = int(number_str)
+# print("Data type of number_str after Type Casting:", type(number_str))
+# number_sum = number_int + number_str
+# print("Sum of number_int and number_str: ", number_sum)
+# print(type(number_sum))

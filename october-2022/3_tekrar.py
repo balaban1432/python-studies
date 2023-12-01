@@ -15,3 +15,10 @@
 # print(2 ** 3)  # üs alır
 # print(16 ** 0.5)  # karakök verir
 
+# print(8 ** (1 / 3))  # 3. dereceden kök alır
+
+# print('Result of this (12+7) sum :', 12 + 7)
+
+print('C:\\november\number_expenditure.txt')
+print('C:\\november\\number_expenditure.txt')
+print('C:\november\number_expenditure.txt')

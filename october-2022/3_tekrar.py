@@ -9,3 +9,9 @@
 # print(no1/23)  # division gives float
 
 
+# print((3 * 4) / 2)
+# print(7 // 2)  # bölme işleminde tam kısmı verir
+
+# print(2 ** 3)  # üs alır
+# print(16 ** 0.5)  # karakök verir
+

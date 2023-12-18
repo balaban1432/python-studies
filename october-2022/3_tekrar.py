@@ -58,3 +58,19 @@
 # print("clarus" + "way")
 
 
+# print(3 * "no way!")
+
+
+# fruit = "orange"
+# vegetable = "Tomato"
+
+# print("using + :", fruit, vegetable)
+# print("using * :", 3 * fruit)
+
+
+# fruit1 = 'Apple'
+# fruit2 = 'Orange'
+
+# print(2 * fruit1 + ' ' + 3 * fruit2)
+
+

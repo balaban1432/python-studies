@@ -51,3 +51,10 @@
 # print("Letter all after 3rd  ", fruit[2:])
 
 
+# vegetable = "Tomato"
+# print("length of the word", vegetable, "is:", len(vegetable))
+
+
+# print("clarus" + "way")
+
+

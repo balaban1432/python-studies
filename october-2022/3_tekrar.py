@@ -146,9 +146,15 @@
 #       f"its half is {piNumber/2:.6}")  # :.6 ile bu sayının basılmasına 6 rakam ile izin ver diyor. noktayı saymıyor.
 
 
-message = "This is an example"
+# message = "This is an example"
 
-print(f"{message:<30}")  # sola daya 30 karaktere tamamla
-print(f"{message:>30}")  # sağa daya 30 katraktere tamamla
-print(f"{message:^30}")  # ortala 30 katraktere tamamla
+# print(f"{message:<30}")  # sola daya 30 karaktere tamamla
+# print(f"{message:>30}")  # sağa daya 30 katraktere tamamla
+# print(f"{message:^30}")  # ortala 30 katraktere tamamla
+
+# print(f"{message:*<30}")  # sola daya 30 karaktere * koyarak tamamla
+# print(f"{message:*>30}")  # sağa daya 30 karaktere * koyarak tamamla
+# print(f"{message:*^30}")  # ortala 30 karaktere * koyarak tamamla
+# print(f"{message:?^30}")  # ortala 30 karaktere ? koyarak tamamla
+
 

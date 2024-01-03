@@ -148,3 +148,7 @@
 
 message = "This is an example"
 
+print(f"{message:<30}")  # sola daya 30 karaktere tamamla
+print(f"{message:>30}")  # sağa daya 30 katraktere tamamla
+print(f"{message:^30}")  # ortala 30 katraktere tamamla
+

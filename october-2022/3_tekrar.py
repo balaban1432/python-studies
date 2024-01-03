@@ -74,3 +74,10 @@
 # print(2 * fruit1 + ' ' + 3 * fruit2)
 
 
+# fruit = 'Orange'
+# vegetable = 'Tomato'
+# amount = 4
+
+# print("The amount of {} we bought is {} pounds.".format(fruit, amount))
+
+

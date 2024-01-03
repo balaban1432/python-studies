@@ -158,3 +158,11 @@
 # print(f"{message:?^30}")  # ortala 30 karaktere ? koyarak tamamla
 
 
+# name = input("enter your name: ")
+# line_1 = f"welcome {name.capitalize():.10}"
+# line_2 = f"{name:.10}, it is our pleasure"
+# line_3 = f"to see you join us"
+
+# print(f"{line_1:^30}")
+# print(f"{line_2:^30}")
+# print(f"{line_3:^30}")  # RAMAZAN BALABAN GİR VE SONUCU GÖR

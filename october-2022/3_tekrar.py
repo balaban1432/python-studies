@@ -131,3 +131,20 @@
 # print(message)
 
 
+     # youtube dan aldığım dersden:
+
+# number_1 = 3
+# number_2 = 6
+# print(f"{number_1} plus {number_2} is "\
+#       f"{number_1 + number_2} and is not "\
+#         f"{2 * (number_1 + number_2)}.")
+
+
+# piNumber = 3.14159265359
+
+# print(f"Pi number is {piNumber:.6} and "\
+#       f"its half is {piNumber/2:.6}")  # :.6 ile bu sayının basılmasına 6 rakam ile izin ver diyor. noktayı saymıyor.
+
+
+message = "This is an example"
+

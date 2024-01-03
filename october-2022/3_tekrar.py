@@ -85,4 +85,23 @@
 
 
 # hem konumsal hem de anahtar kelimeye göre argüman kullanabiliriz
-print('{} is the most {adjective} state of the {country}'.format('California', country = 'USA', adjective = 'crowded'))
+# print('{0} is the most {adjective} state of the {country}'.format('California', country = 'USA', adjective = 'crowded'))  # {0}  içindeki 0 index numarasıdır. alttaki örnek daha iyi açıklar.
+
+
+# print("{9} {7} {1} {10} {3} {2} {5} {8} {6} {0} {4}.".format("in", "know", "bring", "to", "students", "out", "best", "teachers", "the", "Good", "how"))
+
+
+# EN PRATİK OLAN  f string METODU
+
+# fruit = 'Orange'
+# vegetable = 'Tomato'
+# amount = 6
+
+# output = f"the amount of {fruit} and {vegetable} we bought are totally {amount} pounds."
+# print(output)
+
+
+# result = f"{4 * 5}"
+# print(result)
+
+

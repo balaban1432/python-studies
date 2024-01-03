@@ -81,3 +81,6 @@
 # print("The amount of {} we bought is {} pounds.".format(fruit, amount))
 
 
+# print('{state} is the most {adjective} state of the {country}.'.format(state = "California", country = "USA", adjective = "crowded"))
+
+

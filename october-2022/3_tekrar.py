@@ -105,3 +105,29 @@
 # print(result)
 
 
+# my_name = 'JOSEPH'
+# output = f"My name is {my_name.capitalize()}"
+# print(output)
+
+
+# name = "Joseph"
+# job = "teachers"
+# domain = "Data Science"
+
+# message = (
+#     f"Hi {name}. "
+#     f"You are one of the {job} "
+#     f"in the {domain} section."
+# )
+
+# print(message)
+
+
+# parantez içine alma yerine \ ile alt satıra geçilebilir.
+# message = f"Hi {name}. "\
+#     f"You are one of the {job} "\
+#     f"in the {domain} section."
+ 
+# print(message)
+
+

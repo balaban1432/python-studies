@@ -84,3 +84,5 @@
 # print('{state} is the most {adjective} state of the {country}.'.format(state = "California", country = "USA", adjective = "crowded"))
 
 
+# hem konumsal hem de anahtar kelimeye göre argüman kullanabiliriz
+print('{} is the most {adjective} state of the {country}'.format('California', country = 'USA', adjective = 'crowded'))

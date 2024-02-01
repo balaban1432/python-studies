@@ -166,3 +166,11 @@
 # print(f"{line_1:^30}")
 # print(f"{line_2:^30}")
 # print(f"{line_3:^30}")  # RAMAZAN BALABAN GİR VE SONUCU GÖR
+
+
+# print(2 ** 3)
+# print(4 * 5 / 2)
+# print(4 * 5 // 2)
+# print(4 * 5 % 2)
+
+

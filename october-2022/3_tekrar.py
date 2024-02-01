@@ -174,3 +174,14 @@
 # print(4 * 5 % 2)
 
 
+# print("We are", "\boasting", "our", "\brothers")
+
+# print('it\'s essential to learn Python\'s libraries in IT world')
+
+# print('C:\\north pole\noise_penguins.txt')  # '\' kendinden sonra gelen \n 'in özelliğini elinden alır
+
+# print("we are goode\bperson")  # '\b' kendinden önceki karakteri siler, boşluk da olabilir bir harfte
+
+# print('C:\\november\number_expenditure.txt')  # '\n' in önüne bir tane daha \ koyarak  \n in özelliği iptal olur
+
+

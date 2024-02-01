@@ -185,3 +185,27 @@
 # print('C:\\november\number_expenditure.txt')  # '\n' in önüne bir tane daha \ koyarak  \n in özelliği iptal olur
 
 
+# print("one", "two", "three", sep="\t")  # separated by tab marks
+# # sep = ' ' bu gördüğün stringleri boşlukla ayır demektir
+# print("one", "two", "three", sep=" ")
+
+# print("one", "two", "three", sep="\n") 
+
+# print("one", "two", "three", sep=":")
+
+
+# print(False and not True)
+
+# print(True and False or not False or False)
+
+# print('True' and 'False')
+
+# print(2 and "Hello world")  # son True yi verir
+
+# print("" and "hello world")  # "" boş luk F değeri veriyordu
+
+# print(None and ())  # F ve F ilk F yi döndürür, cevap None verir
+
+# print(None or ())  # F veya F ikinci F yi döndürür, cevap () verir
+
+
